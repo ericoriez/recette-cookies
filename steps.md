@@ -7,4 +7,4 @@
 cuisson.
 - Enfourner pour 10 minutes de cuisson.
 - Texte en conflit
-- bon appétit l'ami teste erreur source control
+- bon appétit l'ami teste erreur source control copain
